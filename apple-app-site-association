@@ -1,20 +1,8 @@
 {
     "webcredentials": {
         "apps": [
-             "RDU82N2ES6.io.onicore.nonbank.dev"
-        ]
-    },
-    "applinks": {
-        "apps": [
-             "RDU82N2ES6.io.onicore.nonbank.dev"
-        ],
-        "details": [
-            {
-                "appID": "RDU82N2ES6.io.onicore.nonbank.dev",
-                "paths": [
-                    "*"
-                ]
-            }
+             "RDU82N2ES6.io.onicore.nonbank.dev",
+             "RDU82N2ES6.io.onicore.nonbank"
         ]
     }
 }
